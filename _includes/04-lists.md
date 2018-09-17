@@ -1,4 +1,3 @@
-- games
-- books
-- food
-- drinks
+- Game
+- Food
+- Books
