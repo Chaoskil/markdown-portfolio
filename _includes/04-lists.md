@@ -1,4 +1,4 @@
-games.
-books.
-food.
-drinks.
+* games
+* books
+* food
+* drinks
